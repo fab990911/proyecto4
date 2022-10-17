@@ -1,3 +1,12 @@
 body {
-    background-image: url(img/recusos.jpg);
+    background: darkblue;
+    
+  
+}
+
+main img {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    
 }
