@@ -1,12 +1,31 @@
-body {
-    background: darkblue;
+
+
+* {
+    margin: 0px;
+    padding: 0px;
     
-  
 }
 
-main img {
-    width: 600px;
-    height: 600px;
-    position: absolute;
+body {
+    background-image: url('img/salatic.jpg');
     
+   
 }
+
+div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+ 
+  h1 > b {
+    color: rgb(77, 4, 55);
+    padding: 40px;
+    margin: 40px;
+
+  }
+  h1.center {
+    text-align: right;
+    color: rgb(9, 9, 9);
+  }
