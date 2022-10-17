@@ -4,9 +4,18 @@
     
 }
 
-body {
-    background-color: rgb(206, 35, 132);
-   
+
+header {
+    background-color: deeppink;
+    font-size: x-large;
+    font-family: cursive;
+    font: bold;
+
+}
+
+main{
+    background-color: blueviolet;
+    background-image: url(img/salatic.jpg);
 }
 
 div img {
