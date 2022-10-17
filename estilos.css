@@ -7,8 +7,7 @@
 }
 
 body {
-    background-image: url('img/salatic.jpg');
-    
+    background-color: rgb(206, 35, 132);
    
 }
 
@@ -16,7 +15,7 @@ div img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 70%;
   }
  
   h1 > b {
@@ -26,6 +25,6 @@ div img {
 
   }
   h1.center {
-    text-align: right;
+    text-align: center;
     color: rgb(9, 9, 9);
   }
