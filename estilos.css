@@ -15,7 +15,8 @@ div img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 1200px;
+    height: 500px;
   }
  
   h1 > b {
