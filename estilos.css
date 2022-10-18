@@ -40,5 +40,8 @@ div img {
   }
 
   footer {
-    background-color: chartreuse;
+    background-color: rgb(0, 255, 55);
+  }
+  h3.center {
+    align-items:baseline;
   }
