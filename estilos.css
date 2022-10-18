@@ -35,6 +35,10 @@ div img {
 
   }
   h1.center {
-    text-align: center;
+    text-align:justify;
     color: rgb(9, 9, 9);
+  }
+
+  footer {
+    background-color: chartreuse;
   }
